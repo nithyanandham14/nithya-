@@ -1,1 +1,2 @@
-# nithya-
+# nithya-$ status 
+$ git commit add 
